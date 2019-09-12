@@ -69,3 +69,20 @@ main > .tagline {
 	width: 2.65rem;
 	height: 2.65rem;
 }
+
+/* A link that has not been visited */
+a:link {
+    color: #FAFAFA;
+}
+/* A link that has been visited */
+a:visited {
+    color: #FAFAFA;
+}
+/* A link that is hovered on */
+a:hover {
+    color: #FAFAFA;
+}
+/* A link that is selected */
+a:active {
+    color: #FAFAFA;
+}
