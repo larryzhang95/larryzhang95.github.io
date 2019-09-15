@@ -39,7 +39,7 @@ main {
 	flex-direction: column;
 	min-height: 100vh;
 	justify-content: left;
-	padding: 0 30px;
+	padding: 1em 20px 2em;
 	text-align: justify;
 }
 
@@ -53,6 +53,22 @@ main > .tagline {
 	font-size: 1.5rem;
 	margin: 1.5rem 0;
 	font-weight: 100;
+}
+<!-- Headings Information -->
+
+h1 {
+	margin: 2em 4em;
+
+}
+h2{
+	margin: 2em 4em;
+
+}
+h3{
+	margin: 2em 4em;
+}
+p{
+	margin: 1em 2em;
 }
 
 .icons-social i {
