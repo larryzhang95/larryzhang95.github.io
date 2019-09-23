@@ -89,12 +89,12 @@ a:active {
 }
 /* Disabling Links*/
 span.isDisabled {
-  /*cursor: not-allowed;*/
+  cursor: not-allowed;
   opacity: 0.5;
 }
 span.isDisabled > a {
   color: currentColor;
   display: inline-block;  /* For IE11/ MS Edge bug */
-  pointer-events: none;
+  /*pointer-events: none;*/
   text-decoration: none;
 }
