@@ -88,11 +88,11 @@ a:active {
     color: #FAFAFA;
 }
 /* Disabling Links*/
-.isDisabled {
+main > .isDisabled {
   cursor: not-allowed;
   opacity: 0.5;
 }
-.isDisabled > a {
+main > .isDisabled > a {
   color: currentColor;
   display: inline-block;  /* For IE11/ MS Edge bug */
   pointer-events: none;
