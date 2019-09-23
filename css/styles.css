@@ -4,6 +4,7 @@ html {
 	font-family: 'Roboto', sans-serif;
 }
 
+
 @media (min-width: 576px) {
 	html {
 		font-size: 14px;
@@ -85,4 +86,9 @@ a:hover {
 /* A link that is selected */
 a:active {
     color: #FAFAFA;
+}
+/* Disabling Links*/
+a.disabled {
+  pointer-events: none;
+  cursor: default;
 }
