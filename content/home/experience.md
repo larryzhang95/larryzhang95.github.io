@@ -118,7 +118,7 @@ experience:
     company: UCSD Pattern Recognition
     company_url: 'https://profiles.ucsd.edu/kenneth.kreutz-delgado'
     company_logo:
-    location: Eugene, OR, USA
+    location: San Diego, CA, USA
     date_start: '2016-09-15'
     date_end: '2017-06-15'
     description: |2-
