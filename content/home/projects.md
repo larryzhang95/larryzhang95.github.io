@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 65
 
-title: Projects
+title: Projects # (under construction)
 subtitle: ''
 
 content:
@@ -27,10 +27,8 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
-  - name: Other
-    tag: Demo
+  # - name: Synthetic Data
+  #   tag: Synthetic Data
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

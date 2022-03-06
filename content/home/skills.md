@@ -16,18 +16,68 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
-  icon: r-project
+- description: Acoustic, Linguistic, Physiology, Body & Head Pose
+  icon: database
+  icon_pack: fas
+  name: Multimodal Data
+
+- description: Plotly, Altair, Seaborn, Vega
+  icon: chart-bar
+  icon_pack: fas
+  name: Data Visualization
+
+- description: MySQL, PostgreSQL, AWS
+  icon: code-branch
+  icon_pack: fas
+  name: Data Management 
+
+
+- description: Digital Biomarkers, Clinical Study Design, Ethics Approval
+  icon: clinic-medical
+  icon_pack: fas
+  name: Neuropsychiatric Research
+
+- description: Journal articles, Grants & Fellowships, Reviewing
+  icon: keyboard
+  icon_pack: fas
+  name: Scientific Writing
+
+- description: Fury.gl, Blender, VTK, trimesh
+  icon: cube
+  icon_pack: fas
+  name: Scientific Visualization
+
+- description: Machine Learning, Deep Learning, Network Science, Dynamical Systems
+  icon: dataverse
+  icon_pack: ai
+  name: Data Science
+
+- description: Scientific Computing and Package Development 
+  icon: osf
+  icon_pack: ai
+  name: Open Source Development
+
+- description: Conference Presentations and Public Speaking
+  icon: microphone
+  icon_pack: fas
+  name: Scientific Communication
+
+- description:
+  icon: python
   icon_pack: fab
-  name: R
-- description: 100%
-  icon: chart-line
-  icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
-  icon_pack: fas
-  name: Photography
+  name: Python
+
+- description:
+  icon: linux
+  icon_pack: fab
+  name: Linux
+
+- description:
+  icon: git-alt
+  icon_pack: fab
+  name: Git
+
+
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
