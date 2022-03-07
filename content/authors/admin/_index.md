@@ -76,4 +76,4 @@ My research focuses on applying computational and cognitive models to measuremen
 Prior to IU, I worked on research at the Institute of Creative Technologies at the University of Southern California, where I worked with [Mohammad Soleymani](https://people.ict.usc.edu/~soleymani/) and [Stefan Scherer](https://schererstefan.net/) studying multimodal behavioral sensing in substance abuse disorders and psychological distress. I also worked with [Reza Hosseini Ghomi](http://www.brainmindedmd.com/about.html) and [Trevor Cohen](http://bime.uw.edu/faculty/trevor-cohen/) at the University of Washington studying vocal biomarkers and the clinical application of semantic memory networks for cognitive decline. I continue to study semantic memory search with [Michael Jones](https://www.compcog.com/) at IU.  
 
 
-{{< icon name="download" pack="fas" >}} Download Larry's {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download Larry's {{< staticref "uploads/Larry_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
