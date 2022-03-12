@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Larry Zhang # Website name
-baseurl: 'https://larryzhang.netlify.app/' # Website URL
+baseurl: 'https://larryzhang.io/' # Website URL
 copyright: '© 2021 Larry Zhang' # Footer text, e.g. '© {year} Me'
 
 ###########
