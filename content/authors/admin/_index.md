@@ -14,7 +14,7 @@ organizations:
   url: "https://cns-nrt.indiana.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Biomedical (primarily Electronic Health Records) data access and sharing, clinical trials & digital therapeutics, real-world evidence, and the exploration and improvement of data utility for research and operations.
+bio: My research interests include Behavioral Signal Processing,  Cognitive Science, and Affective Computing applied to real world clinical applications in mental health and neuropsychiatry. My hope is to contribute to the development of intelligent interfaces to improve human wellbeing.
 
 # Interests to show in About widget
 interests:
