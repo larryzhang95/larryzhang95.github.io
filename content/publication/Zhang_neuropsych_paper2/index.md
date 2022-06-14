@@ -30,7 +30,7 @@ abstract: "**Aim:** Although clinicians primarily diagnose dementia based on a c
 
 featured: false
 publication: "*Exploration of Medicine*"
-tags: ["alzheimer’s disease", "artificial intelligence", "machine learning", "prediction", "biomarkers", "digital biomarkers", "cognitive dysfunction","dementia", "early diagnosis", "natural language processing", "automated speech processing", "NLP", "neuropsychological tests", "voice", "data utility", "data quality", "framingham heart study"]
+tags: ["alzheimer’s disease", "artificial intelligence", "machine learning", "prediction", "biomarkers", "digital biomarkers", "cognitive dysfunction","dementia", "early diagnosis", "natural language processing", "automated speech processing", "NLP", "neuropsychological tests", "voice", "framingham heart study"]
 doi: "10.37349/emed.2021.00044"
 
 # Featured image
