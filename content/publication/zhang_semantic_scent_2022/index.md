@@ -29,7 +29,7 @@ memory search."
 featured: true
 publication: "*CogSci 2022*"
 tags: ["cognitive science", "natural language processing", "semantic memory", "NLP", "neuropsychological tests", "word2vec", "semantics", "random walk", "optimal foraging", "computational psychiatry", "cognitive modeling"]
-doi: ""
+doi: "https://escholarship.org/uc/item/67m4g3d9"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
